@@ -40,7 +40,7 @@ p {
 
 .card {
     width: 80%;
-    margin: 40px Auto;
-    border: 5px grey;
+    margin: 40px auto;
+    border: 5px rgba(254, 176, 32, 0.207) solid;
     box-shadow: 5px 10px rgba(251, 164, 3, 0.511);
 }
